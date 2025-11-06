@@ -1,0 +1,15 @@
+{
+  "brand_color": "#1a4fa3",
+  "brand_light": "#2362c7",
+  "brand_dark": "#153b7c",
+  "text_color": "#1e293b",
+  "muted_text": "#64748b",
+  "bg": "#f8fafc",
+  "bg_alt": "#f1f5f9",
+  "surface": "#ffffff",
+  "border": "#cbd5e1",
+  "border_accent": "#93c5fd",
+  "radius": 0,
+  "font_family": "-apple-system, Segoe UI, Roboto, Arial, sans-serif",
+  "max_width": 1400
+}

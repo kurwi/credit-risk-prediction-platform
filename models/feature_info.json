@@ -1,0 +1,28 @@
+{
+  "feature_names": [
+    "employment_status",
+    "housing_status",
+    "loan_purpose",
+    "age",
+    "income",
+    "credit_history_months",
+    "existing_loans",
+    "debt_to_income_ratio",
+    "loan_amount",
+    "credit_score"
+  ],
+  "categorical_features": [
+    "employment_status",
+    "housing_status",
+    "loan_purpose"
+  ],
+  "numerical_features": [
+    "age",
+    "income",
+    "credit_history_months",
+    "existing_loans",
+    "debt_to_income_ratio",
+    "loan_amount",
+    "credit_score"
+  ]
+}
